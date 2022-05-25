@@ -1,0 +1,6 @@
+.idea
+.vscode
+.vagrant
+data/
+www/
+Vagrantfile
